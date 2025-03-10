@@ -1,0 +1,3402 @@
+[
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-07-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 10,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-07-07T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 0,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP028",
+    "propertyName": "Tampines Condominium 28",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3244709,
+    "dateOfSale": "2025-02-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 9,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP023",
+    "propertyName": "Jurong Condominium 23",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 3457041,
+    "dateOfSale": "2025-01-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "John Tan",
+    "nps": 9,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP036",
+    "propertyName": "Tampines Apartment 36",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3473237,
+    "dateOfSale": "2024-09-29T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 6,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP041",
+    "propertyName": "Jurong Condominium 41",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 3033366,
+    "dateOfSale": "2024-10-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 5,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2025-01-22T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 1,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP046",
+    "propertyName": "Pasir Ris Penthouse 46",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 3660293,
+    "dateOfSale": "2024-07-24T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "David Chen",
+    "nps": 7,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP004",
+    "propertyName": "Tampines Bungalow 4",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 3590993,
+    "dateOfSale": "2024-11-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 4,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP002",
+    "propertyName": "Punggol Apartment 2",
+    "location": {
+      "city": "Punggol",
+      "district": "District 3"
+    },
+    "price": 3202043,
+    "dateOfSale": "2024-12-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 7,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP021",
+    "propertyName": "Tampines Apartment 21",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3802283,
+    "dateOfSale": "2024-10-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 3,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP042",
+    "propertyName": "Jurong Landed House 42",
+    "location": {
+      "city": "Jurong",
+      "district": "District 5"
+    },
+    "price": 2738450,
+    "dateOfSale": "2024-05-17T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "David Chen",
+    "nps": 0,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP004",
+    "propertyName": "Tampines Bungalow 4",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 3590993,
+    "dateOfSale": "2025-01-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "David Chen",
+    "nps": 4,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2024-11-17T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 2,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP015",
+    "propertyName": "Woodlands Penthouse 15",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 1853330,
+    "dateOfSale": "2024-10-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 0,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP019",
+    "propertyName": "Tampines Penthouse 19",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 5450777,
+    "dateOfSale": "2025-01-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "John Tan",
+    "nps": 7,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP016",
+    "propertyName": "Tampines Landed House 16",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 2621193,
+    "dateOfSale": "2025-01-28T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 0,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP008",
+    "propertyName": "Pasir Ris Apartment 8",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 2"
+    },
+    "price": 4088246,
+    "dateOfSale": "2025-02-09T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 4,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP037",
+    "propertyName": "Punggol Condominium 37",
+    "location": {
+      "city": "Punggol",
+      "district": "District 2"
+    },
+    "price": 3739969,
+    "dateOfSale": "2024-08-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 5,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP031",
+    "propertyName": "Tampines Condominium 31",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3329091,
+    "dateOfSale": "2024-07-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 1,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP023",
+    "propertyName": "Jurong Condominium 23",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 3457041,
+    "dateOfSale": "2025-01-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 7,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-05-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 5,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP007",
+    "propertyName": "Punggol Apartment 7",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 2980399,
+    "dateOfSale": "2025-01-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "John Tan",
+    "nps": 0,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP049",
+    "propertyName": "Jurong Penthouse 49",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 5091089,
+    "dateOfSale": "2025-01-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 10,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP035",
+    "propertyName": "Jurong Penthouse 35",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 3468303,
+    "dateOfSale": "2024-12-14T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 7,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP027",
+    "propertyName": "Punggol Penthouse 27",
+    "location": {
+      "city": "Punggol",
+      "district": "District 1"
+    },
+    "price": 1360383,
+    "dateOfSale": "2024-07-23T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 10,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP033",
+    "propertyName": "Jurong Bungalow 33",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 534918,
+    "dateOfSale": "2025-03-09T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 8,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP022",
+    "propertyName": "Singapore Central Apartment 22",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1384494,
+    "dateOfSale": "2024-03-13T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 2,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP014",
+    "propertyName": "Singapore Central Bungalow 14",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 5"
+    },
+    "price": 5173777,
+    "dateOfSale": "2024-07-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 0,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP009",
+    "propertyName": "Punggol Apartment 9",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 945602,
+    "dateOfSale": "2024-08-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 9,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP018",
+    "propertyName": "Tampines Penthouse 18",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 541098,
+    "dateOfSale": "2024-07-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 7,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP031",
+    "propertyName": "Tampines Condominium 31",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3329091,
+    "dateOfSale": "2024-06-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 5,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP005",
+    "propertyName": "Pasir Ris Penthouse 5",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 3"
+    },
+    "price": 921591,
+    "dateOfSale": "2024-11-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 1,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP028",
+    "propertyName": "Tampines Condominium 28",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3244709,
+    "dateOfSale": "2025-02-22T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 5,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP045",
+    "propertyName": "Jurong Landed House 45",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 2063952,
+    "dateOfSale": "2024-09-28T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 0,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP002",
+    "propertyName": "Punggol Apartment 2",
+    "location": {
+      "city": "Punggol",
+      "district": "District 3"
+    },
+    "price": 3202043,
+    "dateOfSale": "2024-12-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "David Chen",
+    "nps": 7,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP031",
+    "propertyName": "Tampines Condominium 31",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3329091,
+    "dateOfSale": "2024-10-29T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 4,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP036",
+    "propertyName": "Tampines Apartment 36",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3473237,
+    "dateOfSale": "2024-05-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 5,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP009",
+    "propertyName": "Punggol Apartment 9",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 945602,
+    "dateOfSale": "2024-05-28T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 6,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP009",
+    "propertyName": "Punggol Apartment 9",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 945602,
+    "dateOfSale": "2024-08-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 9,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP038",
+    "propertyName": "Jurong Penthouse 38",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 2233081,
+    "dateOfSale": "2024-07-08T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 9,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP013",
+    "propertyName": "Woodlands Penthouse 13",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 1"
+    },
+    "price": 3674896,
+    "dateOfSale": "2025-01-10T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 6,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP035",
+    "propertyName": "Jurong Penthouse 35",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 3468303,
+    "dateOfSale": "2024-12-17T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "John Tan",
+    "nps": 4,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP012",
+    "propertyName": "Tampines Bungalow 12",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 1395258,
+    "dateOfSale": "2024-10-22T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 0,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP015",
+    "propertyName": "Woodlands Penthouse 15",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 1853330,
+    "dateOfSale": "2024-10-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 0,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP027",
+    "propertyName": "Punggol Penthouse 27",
+    "location": {
+      "city": "Punggol",
+      "district": "District 1"
+    },
+    "price": 1360383,
+    "dateOfSale": "2025-01-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "David Chen",
+    "nps": 2,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP028",
+    "propertyName": "Tampines Condominium 28",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3244709,
+    "dateOfSale": "2024-11-23T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 4,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP045",
+    "propertyName": "Jurong Landed House 45",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 2063952,
+    "dateOfSale": "2024-07-29T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 10,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP033",
+    "propertyName": "Jurong Bungalow 33",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 534918,
+    "dateOfSale": "2024-09-14T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 1,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP029",
+    "propertyName": "Singapore Central Landed House 29",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 3390678,
+    "dateOfSale": "2024-12-02T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 9,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP017",
+    "propertyName": "Woodlands Condominium 17",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 1"
+    },
+    "price": 3876578,
+    "dateOfSale": "2024-05-31T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 7,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-10-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "David Chen",
+    "nps": 3,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP022",
+    "propertyName": "Singapore Central Apartment 22",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1384494,
+    "dateOfSale": "2024-05-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 1,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP004",
+    "propertyName": "Tampines Bungalow 4",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 3590993,
+    "dateOfSale": "2024-07-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 8,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP033",
+    "propertyName": "Jurong Bungalow 33",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 534918,
+    "dateOfSale": "2025-02-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 6,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP016",
+    "propertyName": "Tampines Landed House 16",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 2621193,
+    "dateOfSale": "2024-05-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 6,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP007",
+    "propertyName": "Punggol Apartment 7",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 2980399,
+    "dateOfSale": "2024-08-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 9,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP050",
+    "propertyName": "Jurong Condominium 50",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 1036420,
+    "dateOfSale": "2025-01-27T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 7,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP045",
+    "propertyName": "Jurong Landed House 45",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 2063952,
+    "dateOfSale": "2024-04-27T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 1,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP020",
+    "propertyName": "Tampines Landed House 20",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 951942,
+    "dateOfSale": "2024-08-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 7,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2024-12-14T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 6,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP034",
+    "propertyName": "Singapore Central Condominium 34",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 5"
+    },
+    "price": 1093651,
+    "dateOfSale": "2024-10-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "John Tan",
+    "nps": 2,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP020",
+    "propertyName": "Tampines Landed House 20",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 951942,
+    "dateOfSale": "2024-07-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 5,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP048",
+    "propertyName": "Singapore Central Apartment 48",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1760878,
+    "dateOfSale": "2024-03-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 7,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP045",
+    "propertyName": "Jurong Landed House 45",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 2063952,
+    "dateOfSale": "2024-11-27T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "David Chen",
+    "nps": 6,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP014",
+    "propertyName": "Singapore Central Bungalow 14",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 5"
+    },
+    "price": 5173777,
+    "dateOfSale": "2024-05-14T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 3,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP040",
+    "propertyName": "Pasir Ris Penthouse 40",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 2"
+    },
+    "price": 3422527,
+    "dateOfSale": "2024-05-17T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 9,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP044",
+    "propertyName": "Punggol Apartment 44",
+    "location": {
+      "city": "Punggol",
+      "district": "District 2"
+    },
+    "price": 4624403,
+    "dateOfSale": "2024-12-07T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 4,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP037",
+    "propertyName": "Punggol Condominium 37",
+    "location": {
+      "city": "Punggol",
+      "district": "District 2"
+    },
+    "price": 3739969,
+    "dateOfSale": "2025-01-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 7,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP035",
+    "propertyName": "Jurong Penthouse 35",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 3468303,
+    "dateOfSale": "2024-07-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 0,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2024-05-24T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "John Tan",
+    "nps": 6,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP022",
+    "propertyName": "Singapore Central Apartment 22",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1384494,
+    "dateOfSale": "2024-12-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 9,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP013",
+    "propertyName": "Woodlands Penthouse 13",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 1"
+    },
+    "price": 3674896,
+    "dateOfSale": "2025-03-09T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 9,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP008",
+    "propertyName": "Pasir Ris Apartment 8",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 2"
+    },
+    "price": 4088246,
+    "dateOfSale": "2024-07-31T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 1,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP016",
+    "propertyName": "Tampines Landed House 16",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 2621193,
+    "dateOfSale": "2024-03-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 9,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP049",
+    "propertyName": "Jurong Penthouse 49",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 5091089,
+    "dateOfSale": "2024-04-14T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 2,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP002",
+    "propertyName": "Punggol Apartment 2",
+    "location": {
+      "city": "Punggol",
+      "district": "District 3"
+    },
+    "price": 3202043,
+    "dateOfSale": "2024-12-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 4,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP049",
+    "propertyName": "Jurong Penthouse 49",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 5091089,
+    "dateOfSale": "2024-07-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 4,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP022",
+    "propertyName": "Singapore Central Apartment 22",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1384494,
+    "dateOfSale": "2024-11-29T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 3,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP021",
+    "propertyName": "Tampines Apartment 21",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3802283,
+    "dateOfSale": "2025-03-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "David Chen",
+    "nps": 2,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP049",
+    "propertyName": "Jurong Penthouse 49",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 5091089,
+    "dateOfSale": "2024-10-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 5,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP047",
+    "propertyName": "Woodlands Apartment 47",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 5"
+    },
+    "price": 2167884,
+    "dateOfSale": "2024-07-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 7,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP047",
+    "propertyName": "Woodlands Apartment 47",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 5"
+    },
+    "price": 2167884,
+    "dateOfSale": "2025-03-03T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 0,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-04-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 4,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP009",
+    "propertyName": "Punggol Apartment 9",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 945602,
+    "dateOfSale": "2025-02-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 6,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP047",
+    "propertyName": "Woodlands Apartment 47",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 5"
+    },
+    "price": 2167884,
+    "dateOfSale": "2024-07-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 6,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP046",
+    "propertyName": "Pasir Ris Penthouse 46",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 3660293,
+    "dateOfSale": "2024-07-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "David Chen",
+    "nps": 9,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2025-01-13T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "David Chen",
+    "nps": 4,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP005",
+    "propertyName": "Pasir Ris Penthouse 5",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 3"
+    },
+    "price": 921591,
+    "dateOfSale": "2024-12-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 5,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP048",
+    "propertyName": "Singapore Central Apartment 48",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1760878,
+    "dateOfSale": "2024-03-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 0,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-04-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 2,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP029",
+    "propertyName": "Singapore Central Landed House 29",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 3390678,
+    "dateOfSale": "2025-02-03T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "John Tan",
+    "nps": 5,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-10-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 6,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP031",
+    "propertyName": "Tampines Condominium 31",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3329091,
+    "dateOfSale": "2024-12-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 0,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP047",
+    "propertyName": "Woodlands Apartment 47",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 5"
+    },
+    "price": 2167884,
+    "dateOfSale": "2024-06-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 2,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP012",
+    "propertyName": "Tampines Bungalow 12",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 1395258,
+    "dateOfSale": "2025-02-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 3,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP014",
+    "propertyName": "Singapore Central Bungalow 14",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 5"
+    },
+    "price": 5173777,
+    "dateOfSale": "2024-11-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 0,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP030",
+    "propertyName": "Woodlands Landed House 30",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 2"
+    },
+    "price": 2064766,
+    "dateOfSale": "2024-04-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 4,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP028",
+    "propertyName": "Tampines Condominium 28",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3244709,
+    "dateOfSale": "2024-07-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 6,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP031",
+    "propertyName": "Tampines Condominium 31",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3329091,
+    "dateOfSale": "2025-02-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "David Chen",
+    "nps": 4,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP009",
+    "propertyName": "Punggol Apartment 9",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 945602,
+    "dateOfSale": "2025-02-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "John Tan",
+    "nps": 7,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-12-20T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 4,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP028",
+    "propertyName": "Tampines Condominium 28",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3244709,
+    "dateOfSale": "2024-04-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 3,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP046",
+    "propertyName": "Pasir Ris Penthouse 46",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 3660293,
+    "dateOfSale": "2024-03-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 5,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP016",
+    "propertyName": "Tampines Landed House 16",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 2621193,
+    "dateOfSale": "2024-10-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "David Chen",
+    "nps": 10,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP033",
+    "propertyName": "Jurong Bungalow 33",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 534918,
+    "dateOfSale": "2025-01-09T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 1,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP003",
+    "propertyName": "Pasir Ris Penthouse 3",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 2423688,
+    "dateOfSale": "2024-09-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 9,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP022",
+    "propertyName": "Singapore Central Apartment 22",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1384494,
+    "dateOfSale": "2024-07-28T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 8,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP047",
+    "propertyName": "Woodlands Apartment 47",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 5"
+    },
+    "price": 2167884,
+    "dateOfSale": "2024-08-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 2,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP041",
+    "propertyName": "Jurong Condominium 41",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 3033366,
+    "dateOfSale": "2024-09-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 7,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2025-01-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "John Tan",
+    "nps": 5,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP049",
+    "propertyName": "Jurong Penthouse 49",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 5091089,
+    "dateOfSale": "2024-09-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 9,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2024-08-05T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "John Tan",
+    "nps": 4,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP001",
+    "propertyName": "Tampines Bungalow 1",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 1523505,
+    "dateOfSale": "2024-07-10T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 5,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP018",
+    "propertyName": "Tampines Penthouse 18",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 541098,
+    "dateOfSale": "2024-11-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "David Chen",
+    "nps": 1,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-09-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "John Tan",
+    "nps": 0,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-09-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "John Tan",
+    "nps": 6,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP037",
+    "propertyName": "Punggol Condominium 37",
+    "location": {
+      "city": "Punggol",
+      "district": "District 2"
+    },
+    "price": 3739969,
+    "dateOfSale": "2024-11-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 1,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP033",
+    "propertyName": "Jurong Bungalow 33",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 534918,
+    "dateOfSale": "2024-09-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 10,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP017",
+    "propertyName": "Woodlands Condominium 17",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 1"
+    },
+    "price": 3876578,
+    "dateOfSale": "2025-01-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 7,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP040",
+    "propertyName": "Pasir Ris Penthouse 40",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 2"
+    },
+    "price": 3422527,
+    "dateOfSale": "2024-05-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 9,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP027",
+    "propertyName": "Punggol Penthouse 27",
+    "location": {
+      "city": "Punggol",
+      "district": "District 1"
+    },
+    "price": 1360383,
+    "dateOfSale": "2024-06-05T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 1,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP010",
+    "propertyName": "Singapore Central Landed House 10",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 3"
+    },
+    "price": 3505644,
+    "dateOfSale": "2025-01-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 5,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP041",
+    "propertyName": "Jurong Condominium 41",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 3033366,
+    "dateOfSale": "2024-09-28T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 3,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP010",
+    "propertyName": "Singapore Central Landed House 10",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 3"
+    },
+    "price": 3505644,
+    "dateOfSale": "2024-03-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "David Chen",
+    "nps": 5,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP024",
+    "propertyName": "Tampines Landed House 24",
+    "location": {
+      "city": "Tampines",
+      "district": "District 3"
+    },
+    "price": 2045645,
+    "dateOfSale": "2025-01-24T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 6,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-12-03T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "John Tan",
+    "nps": 9,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP036",
+    "propertyName": "Tampines Apartment 36",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3473237,
+    "dateOfSale": "2024-12-02T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "John Tan",
+    "nps": 2,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP039",
+    "propertyName": "Pasir Ris Bungalow 39",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 5"
+    },
+    "price": 3060330,
+    "dateOfSale": "2024-08-23T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "David Chen",
+    "nps": 8,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP001",
+    "propertyName": "Tampines Bungalow 1",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 1523505,
+    "dateOfSale": "2025-02-24T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "John Tan",
+    "nps": 9,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP046",
+    "propertyName": "Pasir Ris Penthouse 46",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 3660293,
+    "dateOfSale": "2024-04-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 1,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP036",
+    "propertyName": "Tampines Apartment 36",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3473237,
+    "dateOfSale": "2024-12-24T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 3,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP013",
+    "propertyName": "Woodlands Penthouse 13",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 1"
+    },
+    "price": 3674896,
+    "dateOfSale": "2025-03-08T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 2,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP047",
+    "propertyName": "Woodlands Apartment 47",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 5"
+    },
+    "price": 2167884,
+    "dateOfSale": "2024-12-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 5,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP045",
+    "propertyName": "Jurong Landed House 45",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 2063952,
+    "dateOfSale": "2024-11-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "John Tan",
+    "nps": 4,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP004",
+    "propertyName": "Tampines Bungalow 4",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 3590993,
+    "dateOfSale": "2024-03-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "David Chen",
+    "nps": 5,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP050",
+    "propertyName": "Jurong Condominium 50",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 1036420,
+    "dateOfSale": "2024-10-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 3,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP032",
+    "propertyName": "Singapore Central Condominium 32",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 2"
+    },
+    "price": 5264062,
+    "dateOfSale": "2024-12-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 3,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP046",
+    "propertyName": "Pasir Ris Penthouse 46",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 3660293,
+    "dateOfSale": "2024-06-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 4,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP030",
+    "propertyName": "Woodlands Landed House 30",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 2"
+    },
+    "price": 2064766,
+    "dateOfSale": "2025-02-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 1,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-05-08T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 10,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP010",
+    "propertyName": "Singapore Central Landed House 10",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 3"
+    },
+    "price": 3505644,
+    "dateOfSale": "2025-01-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 4,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP019",
+    "propertyName": "Tampines Penthouse 19",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 5450777,
+    "dateOfSale": "2024-12-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 7,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP045",
+    "propertyName": "Jurong Landed House 45",
+    "location": {
+      "city": "Jurong",
+      "district": "District 1"
+    },
+    "price": 2063952,
+    "dateOfSale": "2024-11-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 10,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-03-27T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "John Tan",
+    "nps": 3,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP002",
+    "propertyName": "Punggol Apartment 2",
+    "location": {
+      "city": "Punggol",
+      "district": "District 3"
+    },
+    "price": 3202043,
+    "dateOfSale": "2025-02-05T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 0,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP020",
+    "propertyName": "Tampines Landed House 20",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 951942,
+    "dateOfSale": "2024-07-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "John Tan",
+    "nps": 0,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP012",
+    "propertyName": "Tampines Bungalow 12",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 1395258,
+    "dateOfSale": "2024-12-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 9,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP036",
+    "propertyName": "Tampines Apartment 36",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3473237,
+    "dateOfSale": "2024-11-24T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 1,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP028",
+    "propertyName": "Tampines Condominium 28",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3244709,
+    "dateOfSale": "2024-08-07T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 1,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2024-08-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "John Tan",
+    "nps": 5,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP039",
+    "propertyName": "Pasir Ris Bungalow 39",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 5"
+    },
+    "price": 3060330,
+    "dateOfSale": "2025-03-03T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "David Chen",
+    "nps": 9,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP026",
+    "propertyName": "Tampines Apartment 26",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 2903450,
+    "dateOfSale": "2024-11-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 6,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP041",
+    "propertyName": "Jurong Condominium 41",
+    "location": {
+      "city": "Jurong",
+      "district": "District 3"
+    },
+    "price": 3033366,
+    "dateOfSale": "2024-12-03T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "David Chen",
+    "nps": 9,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP012",
+    "propertyName": "Tampines Bungalow 12",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 1395258,
+    "dateOfSale": "2024-04-26T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 0,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP001",
+    "propertyName": "Tampines Bungalow 1",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 1523505,
+    "dateOfSale": "2024-11-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 4,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP021",
+    "propertyName": "Tampines Apartment 21",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3802283,
+    "dateOfSale": "2024-04-22T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 9,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP048",
+    "propertyName": "Singapore Central Apartment 48",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1760878,
+    "dateOfSale": "2024-05-03T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "John Tan",
+    "nps": 10,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP029",
+    "propertyName": "Singapore Central Landed House 29",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 3390678,
+    "dateOfSale": "2025-01-28T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "John Tan",
+    "nps": 0,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP024",
+    "propertyName": "Tampines Landed House 24",
+    "location": {
+      "city": "Tampines",
+      "district": "District 3"
+    },
+    "price": 2045645,
+    "dateOfSale": "2024-04-15T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 1,
+    "feedback": "Great location but the property needed some renovations."
+  },
+  {
+    "propertyId": "PROP026",
+    "propertyName": "Tampines Apartment 26",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 2903450,
+    "dateOfSale": "2024-05-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "David Chen",
+    "nps": 0,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP031",
+    "propertyName": "Tampines Condominium 31",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 3329091,
+    "dateOfSale": "2024-08-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 10,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP026",
+    "propertyName": "Tampines Apartment 26",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 2903450,
+    "dateOfSale": "2024-09-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 9,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP034",
+    "propertyName": "Singapore Central Condominium 34",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 5"
+    },
+    "price": 1093651,
+    "dateOfSale": "2024-11-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 1,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP011",
+    "propertyName": "Tampines Penthouse 11",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3864242,
+    "dateOfSale": "2024-06-17T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 10,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP036",
+    "propertyName": "Tampines Apartment 36",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3473237,
+    "dateOfSale": "2024-12-05T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 0,
+    "feedback": "Excellent service from start to finish!"
+  },
+  {
+    "propertyId": "PROP048",
+    "propertyName": "Singapore Central Apartment 48",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1760878,
+    "dateOfSale": "2024-10-31T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 10,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP004",
+    "propertyName": "Tampines Bungalow 4",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 3590993,
+    "dateOfSale": "2024-08-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 6,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP018",
+    "propertyName": "Tampines Penthouse 18",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 541098,
+    "dateOfSale": "2024-10-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 0,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-03-22T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 6,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP013",
+    "propertyName": "Woodlands Penthouse 13",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 1"
+    },
+    "price": 3674896,
+    "dateOfSale": "2024-11-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 4,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP046",
+    "propertyName": "Pasir Ris Penthouse 46",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 3660293,
+    "dateOfSale": "2024-03-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 7,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP039",
+    "propertyName": "Pasir Ris Bungalow 39",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 5"
+    },
+    "price": 3060330,
+    "dateOfSale": "2024-05-09T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 8,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP033",
+    "propertyName": "Jurong Bungalow 33",
+    "location": {
+      "city": "Jurong",
+      "district": "District 2"
+    },
+    "price": 534918,
+    "dateOfSale": "2024-12-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 4,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP044",
+    "propertyName": "Punggol Apartment 44",
+    "location": {
+      "city": "Punggol",
+      "district": "District 2"
+    },
+    "price": 4624403,
+    "dateOfSale": "2024-06-17T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 5,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP024",
+    "propertyName": "Tampines Landed House 24",
+    "location": {
+      "city": "Tampines",
+      "district": "District 3"
+    },
+    "price": 2045645,
+    "dateOfSale": "2025-01-09T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "John Tan",
+    "nps": 2,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP018",
+    "propertyName": "Tampines Penthouse 18",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 541098,
+    "dateOfSale": "2024-07-14T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "John Tan",
+    "nps": 1,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP046",
+    "propertyName": "Pasir Ris Penthouse 46",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 4"
+    },
+    "price": 3660293,
+    "dateOfSale": "2024-05-21T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 5,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP043",
+    "propertyName": "Woodlands Apartment 43",
+    "location": {
+      "city": "Woodlands",
+      "district": "District 4"
+    },
+    "price": 2456790,
+    "dateOfSale": "2024-09-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 4,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP025",
+    "propertyName": "Singapore Central Condominium 25",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 4"
+    },
+    "price": 2331948,
+    "dateOfSale": "2024-04-01T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "46-55"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 8,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP032",
+    "propertyName": "Singapore Central Condominium 32",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 2"
+    },
+    "price": 5264062,
+    "dateOfSale": "2024-06-16T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 1,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP005",
+    "propertyName": "Pasir Ris Penthouse 5",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 3"
+    },
+    "price": 921591,
+    "dateOfSale": "2024-09-20T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 8,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP020",
+    "propertyName": "Tampines Landed House 20",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 951942,
+    "dateOfSale": "2024-04-06T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 5,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP022",
+    "propertyName": "Singapore Central Apartment 22",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 1"
+    },
+    "price": 1384494,
+    "dateOfSale": "2025-02-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Brian Ng",
+    "nps": 10,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP026",
+    "propertyName": "Tampines Apartment 26",
+    "location": {
+      "city": "Tampines",
+      "district": "District 2"
+    },
+    "price": 2903450,
+    "dateOfSale": "2024-12-03T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 10,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP005",
+    "propertyName": "Pasir Ris Penthouse 5",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 3"
+    },
+    "price": 921591,
+    "dateOfSale": "2025-02-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 2,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP042",
+    "propertyName": "Jurong Landed House 42",
+    "location": {
+      "city": "Jurong",
+      "district": "District 5"
+    },
+    "price": 2738450,
+    "dateOfSale": "2025-02-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "John Tan",
+    "nps": 5,
+    "feedback": "Agent was knowledgeable but sometimes slow to respond."
+  },
+  {
+    "propertyId": "PROP006",
+    "propertyName": "Pasir Ris Penthouse 6",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 1"
+    },
+    "price": 1629706,
+    "dateOfSale": "2024-12-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 8,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP009",
+    "propertyName": "Punggol Apartment 9",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 945602,
+    "dateOfSale": "2024-12-25T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 1,
+    "feedback": "Very satisfied with the property and service!"
+  },
+  {
+    "propertyId": "PROP025",
+    "propertyName": "Singapore Central Condominium 25",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 4"
+    },
+    "price": 2331948,
+    "dateOfSale": "2024-08-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 7,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP044",
+    "propertyName": "Punggol Apartment 44",
+    "location": {
+      "city": "Punggol",
+      "district": "District 2"
+    },
+    "price": 4624403,
+    "dateOfSale": "2024-05-11T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 8,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP039",
+    "propertyName": "Pasir Ris Bungalow 39",
+    "location": {
+      "city": "Pasir Ris",
+      "district": "District 5"
+    },
+    "price": 3060330,
+    "dateOfSale": "2024-11-22T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Michael Lee",
+    "nps": 7,
+    "feedback": "Perfect fit for my needs, satisfied with purchase."
+  },
+  {
+    "propertyId": "PROP004",
+    "propertyName": "Tampines Bungalow 4",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 3590993,
+    "dateOfSale": "2024-06-30T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "Amanda Teo",
+    "nps": 6,
+    "feedback": "Everything went smoothly, highly recommend!"
+  },
+  {
+    "propertyId": "PROP007",
+    "propertyName": "Punggol Apartment 7",
+    "location": {
+      "city": "Punggol",
+      "district": "District 4"
+    },
+    "price": 2980399,
+    "dateOfSale": "2024-08-19T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "John Tan",
+    "nps": 0,
+    "feedback": "The process took longer than expected."
+  },
+  {
+    "propertyId": "PROP024",
+    "propertyName": "Tampines Landed House 24",
+    "location": {
+      "city": "Tampines",
+      "district": "District 3"
+    },
+    "price": 2045645,
+    "dateOfSale": "2024-07-18T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "26-35"
+    },
+    "salesAgent": "David Chen",
+    "nps": 9,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP002",
+    "propertyName": "Punggol Apartment 2",
+    "location": {
+      "city": "Punggol",
+      "district": "District 3"
+    },
+    "price": 3202043,
+    "dateOfSale": "2024-03-12T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 6,
+    "feedback": "Good experience overall, would use service again."
+  },
+  {
+    "propertyId": "PROP004",
+    "propertyName": "Tampines Bungalow 4",
+    "location": {
+      "city": "Tampines",
+      "district": "District 5"
+    },
+    "price": 3590993,
+    "dateOfSale": "2024-05-05T19:00:29.062Z",
+    "customer": {
+      "gender": "Male",
+      "ageGroup": "18-25"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 10,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP034",
+    "propertyName": "Singapore Central Condominium 34",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 5"
+    },
+    "price": 1093651,
+    "dateOfSale": "2024-10-17T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Rachel Lim",
+    "nps": 10,
+    "feedback": "Property was as advertised, no surprises."
+  },
+  {
+    "propertyId": "PROP025",
+    "propertyName": "Singapore Central Condominium 25",
+    "location": {
+      "city": "Singapore Central",
+      "district": "District 4"
+    },
+    "price": 2331948,
+    "dateOfSale": "2024-06-04T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "56+"
+    },
+    "salesAgent": "Jennifer Koh",
+    "nps": 4,
+    "feedback": "The agent was very helpful but pricing was higher than expected."
+  },
+  {
+    "propertyId": "PROP028",
+    "propertyName": "Tampines Condominium 28",
+    "location": {
+      "city": "Tampines",
+      "district": "District 4"
+    },
+    "price": 3244709,
+    "dateOfSale": "2024-10-10T19:00:29.062Z",
+    "customer": {
+      "gender": "Female",
+      "ageGroup": "36-45"
+    },
+    "salesAgent": "Sarah Wong",
+    "nps": 6,
+    "feedback": "Excellent service from start to finish!"
+  }
+]

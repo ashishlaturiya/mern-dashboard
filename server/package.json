@@ -1,0 +1,33 @@
+{
+  "name": "fayredge-dashboard-server",
+  "version": "1.0.0",
+  "description": "Backend server for Fayredge Dashboard",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix ../client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "data:import": "node scripts/seedDatabase.js"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "node",
+    "dashboard"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "fayredge-dashboard": "file:..",
+    "mongoose": "^7.2.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.1.0",
+    "nodemon": "^2.0.22"
+  }
+}
