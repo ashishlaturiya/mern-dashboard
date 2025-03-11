@@ -5,6 +5,7 @@ import connectDB from './config/db.js';
 import salesRoutes from './routes/salesRoutes.js';
 import propertiesRoutes from './routes/propertiesRoutes.js';
 import dashboardRoutes from './routes/dashboardRoutes.js';
+import apiRoutes from './routes/api.js';
 
 // Load environment variables
 dotenv.config();
@@ -22,6 +23,7 @@ app.use(cors());
 app.use('/api/sales', salesRoutes);
 app.use('/api/properties', propertiesRoutes);
 app.use('/api/dashboard', dashboardRoutes);
+app.use('/api', apiRoutes);
 
 // Base route
 app.get('/', (req, res) => {

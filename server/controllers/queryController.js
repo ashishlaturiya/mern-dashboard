@@ -1,4 +1,4 @@
-import { processNaturalLanguageQuery } from '../services/llmService.js';
+import { processNaturalLanguageQuery } from '../services/openaiService.js';
 import * as models from '../models/index.js';
 
 export const handleNaturalLanguageQuery = async (req, res) => {

@@ -1,4 +1,3 @@
-// client/src/components/llm/DataTable.js
 import React from 'react';
 import {
   Table,

@@ -1,4 +1,3 @@
-// server/routes/api.js
 import express from 'express';
 import { handleNaturalLanguageQuery } from '../controllers/queryController.js';
 

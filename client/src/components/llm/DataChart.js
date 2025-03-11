@@ -1,4 +1,3 @@
-// client/src/components/llm/DataChart.js
 import React from 'react';
 import { Box, Text } from '@chakra-ui/react';
 import { 

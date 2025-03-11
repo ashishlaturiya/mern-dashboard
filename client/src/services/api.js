@@ -163,6 +163,7 @@ export const getFeedbackSentiment = async () => {
   }
 };
 
+// OpenAI's API call
 export const executeNaturalLanguageQuery = async (query) => {
   try {
     const response = await api.post('/natural-query', { query });

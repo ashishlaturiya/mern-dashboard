@@ -1,4 +1,3 @@
-// client/src/components/llm/NaturalLanguageQuery.js
 import React, { useState } from 'react';
 import {
   Box, 
