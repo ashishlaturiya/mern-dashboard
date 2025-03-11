@@ -1,0 +1,1286 @@
+[{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567d7"
+  },
+  "propertyId": "PROP001",
+  "propertyName": "Tampines Bungalow 1",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Tampines",
+    "district": "District 4",
+    "address": "65 District 4 Road, Tampines"
+  },
+  "price": 1523505,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "area": 644,
+  "features": [
+    "Swimming Pool",
+    "Rooftop Garden",
+    "Tennis Court"
+  ],
+  "status": "Reserved",
+  "listedDate": {
+    "$date": "2024-12-04T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567d8"
+  },
+  "propertyId": "PROP002",
+  "propertyName": "Punggol Apartment 2",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Punggol",
+    "district": "District 3",
+    "address": "9 District 3 Road, Punggol"
+  },
+  "price": 3202043,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 2086,
+  "features": [
+    "BBQ Pit",
+    "24/7 Concierge"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-31T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567d9"
+  },
+  "propertyId": "PROP003",
+  "propertyName": "Pasir Ris Penthouse 3",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Pasir Ris",
+    "district": "District 4",
+    "address": "66 District 4 Road, Pasir Ris"
+  },
+  "price": 2423688,
+  "bedrooms": 2,
+  "bathrooms": 3,
+  "area": 962,
+  "features": [
+    "Tennis Court",
+    "Gym"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-20T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567da"
+  },
+  "propertyId": "PROP004",
+  "propertyName": "Tampines Bungalow 4",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Tampines",
+    "district": "District 5",
+    "address": "46 District 5 Road, Tampines"
+  },
+  "price": 3590993,
+  "bedrooms": 1,
+  "bathrooms": 2,
+  "area": 2475,
+  "features": [
+    "Tennis Court",
+    "Jacuzzi",
+    "Security"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-03-02T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567db"
+  },
+  "propertyId": "PROP005",
+  "propertyName": "Pasir Ris Penthouse 5",
+  "propertyType": "Landed House",
+  "location": {
+    "city": "Pasir Ris",
+    "district": "District 3",
+    "address": "11 District 3 Road, Pasir Ris"
+  },
+  "price": 921591,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "area": 1072,
+  "features": [
+    "Swimming Pool",
+    "Gym",
+    "24/7 Concierge",
+    "Smart Home"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-03-04T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567dc"
+  },
+  "propertyId": "PROP006",
+  "propertyName": "Pasir Ris Penthouse 6",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Pasir Ris",
+    "district": "District 1",
+    "address": "32 District 1 Road, Pasir Ris"
+  },
+  "price": 1629706,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "area": 869,
+  "features": [
+    "Tennis Court",
+    "Security",
+    "24/7 Concierge",
+    "Playground"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-10-29T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567dd"
+  },
+  "propertyId": "PROP007",
+  "propertyName": "Punggol Apartment 7",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Punggol",
+    "district": "District 4",
+    "address": "14 District 4 Road, Punggol"
+  },
+  "price": 2980399,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 2253,
+  "features": [
+    "Rooftop Garden",
+    "24/7 Concierge",
+    "Tennis Court",
+    "Smart Home"
+  ],
+  "status": "Available",
+  "listedDate": {
+    "$date": "2024-09-27T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567de"
+  },
+  "propertyId": "PROP008",
+  "propertyName": "Pasir Ris Apartment 8",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Pasir Ris",
+    "district": "District 2",
+    "address": "47 District 2 Road, Pasir Ris"
+  },
+  "price": 4088246,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "area": 1324,
+  "features": [
+    "Playground",
+    "Security"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-10T19:00:29.061Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567df"
+  },
+  "propertyId": "PROP009",
+  "propertyName": "Punggol Apartment 9",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Punggol",
+    "district": "District 4",
+    "address": "89 District 4 Road, Punggol"
+  },
+  "price": 945602,
+  "bedrooms": 1,
+  "bathrooms": 4,
+  "area": 1461,
+  "features": [
+    "Smart Home",
+    "BBQ Pit"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-31T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e0"
+  },
+  "propertyId": "PROP010",
+  "propertyName": "Singapore Central Landed House 10",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 3",
+    "address": "82 District 3 Road, Singapore Central"
+  },
+  "price": 3505644,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 2115,
+  "features": [
+    "Tennis Court"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-09-30T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e1"
+  },
+  "propertyId": "PROP011",
+  "propertyName": "Tampines Penthouse 11",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Tampines",
+    "district": "District 4",
+    "address": "13 District 4 Road, Tampines"
+  },
+  "price": 3864242,
+  "bedrooms": 1,
+  "bathrooms": 4,
+  "area": 2133,
+  "features": [
+    "Playground"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-10-01T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e2"
+  },
+  "propertyId": "PROP012",
+  "propertyName": "Tampines Bungalow 12",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Tampines",
+    "district": "District 2",
+    "address": "76 District 2 Road, Tampines"
+  },
+  "price": 1395258,
+  "bedrooms": 2,
+  "bathrooms": 4,
+  "area": 1549,
+  "features": [
+    "Gym",
+    "Jacuzzi",
+    "Tennis Court",
+    "24/7 Concierge"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-05T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e3"
+  },
+  "propertyId": "PROP013",
+  "propertyName": "Woodlands Penthouse 13",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Woodlands",
+    "district": "District 1",
+    "address": "34 District 1 Road, Woodlands"
+  },
+  "price": 3674896,
+  "bedrooms": 3,
+  "bathrooms": 4,
+  "area": 842,
+  "features": [
+    "Rooftop Garden"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-20T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e4"
+  },
+  "propertyId": "PROP014",
+  "propertyName": "Singapore Central Bungalow 14",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 5",
+    "address": "39 District 5 Road, Singapore Central"
+  },
+  "price": 5173777,
+  "bedrooms": 1,
+  "bathrooms": 4,
+  "area": 2072,
+  "features": [
+    "Swimming Pool",
+    "Tennis Court",
+    "Security"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-20T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e5"
+  },
+  "propertyId": "PROP015",
+  "propertyName": "Woodlands Penthouse 15",
+  "propertyType": "Landed House",
+  "location": {
+    "city": "Woodlands",
+    "district": "District 4",
+    "address": "44 District 4 Road, Woodlands"
+  },
+  "price": 1853330,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 539,
+  "features": [
+    "BBQ Pit",
+    "Smart Home"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-07T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e6"
+  },
+  "propertyId": "PROP016",
+  "propertyName": "Tampines Landed House 16",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Tampines",
+    "district": "District 5",
+    "address": "43 District 5 Road, Tampines"
+  },
+  "price": 2621193,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "area": 864,
+  "features": [
+    "Tennis Court"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-10-02T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e7"
+  },
+  "propertyId": "PROP017",
+  "propertyName": "Woodlands Condominium 17",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Woodlands",
+    "district": "District 1",
+    "address": "7 District 1 Road, Woodlands"
+  },
+  "price": 3876578,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "area": 1508,
+  "features": [
+    "Playground",
+    "24/7 Concierge"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-09-22T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e8"
+  },
+  "propertyId": "PROP018",
+  "propertyName": "Tampines Penthouse 18",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Tampines",
+    "district": "District 5",
+    "address": "49 District 5 Road, Tampines"
+  },
+  "price": 541098,
+  "bedrooms": 4,
+  "bathrooms": 1,
+  "area": 1359,
+  "features": [
+    "BBQ Pit",
+    "Playground",
+    "Jacuzzi"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-09-30T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567e9"
+  },
+  "propertyId": "PROP019",
+  "propertyName": "Tampines Penthouse 19",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Tampines",
+    "district": "District 4",
+    "address": "76 District 4 Road, Tampines"
+  },
+  "price": 5450777,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 2444,
+  "features": [
+    "Jacuzzi",
+    "Tennis Court"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-19T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567ea"
+  },
+  "propertyId": "PROP020",
+  "propertyName": "Tampines Landed House 20",
+  "propertyType": "Landed House",
+  "location": {
+    "city": "Tampines",
+    "district": "District 4",
+    "address": "34 District 4 Road, Tampines"
+  },
+  "price": 951942,
+  "bedrooms": 5,
+  "bathrooms": 1,
+  "area": 2376,
+  "features": [
+    "24/7 Concierge",
+    "Rooftop Garden",
+    "Tennis Court",
+    "Security"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-21T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567eb"
+  },
+  "propertyId": "PROP021",
+  "propertyName": "Tampines Apartment 21",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Tampines",
+    "district": "District 2",
+    "address": "56 District 2 Road, Tampines"
+  },
+  "price": 3802283,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "area": 1595,
+  "features": [
+    "Playground",
+    "Security",
+    "Swimming Pool",
+    "Tennis Court"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-10-22T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567ec"
+  },
+  "propertyId": "PROP022",
+  "propertyName": "Singapore Central Apartment 22",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 1",
+    "address": "98 District 1 Road, Singapore Central"
+  },
+  "price": 1384494,
+  "bedrooms": 3,
+  "bathrooms": 4,
+  "area": 2377,
+  "features": [
+    "Smart Home",
+    "Rooftop Garden",
+    "BBQ Pit",
+    "Playground"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-16T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567ed"
+  },
+  "propertyId": "PROP023",
+  "propertyName": "Jurong Condominium 23",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Jurong",
+    "district": "District 2",
+    "address": "72 District 2 Road, Jurong"
+  },
+  "price": 3457041,
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "area": 2006,
+  "features": [
+    "Gym",
+    "BBQ Pit",
+    "Security"
+  ],
+  "status": "Available",
+  "listedDate": {
+    "$date": "2024-11-20T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567ee"
+  },
+  "propertyId": "PROP024",
+  "propertyName": "Tampines Landed House 24",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Tampines",
+    "district": "District 3",
+    "address": "36 District 3 Road, Tampines"
+  },
+  "price": 2045645,
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "area": 636,
+  "features": [
+    "24/7 Concierge",
+    "Swimming Pool"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-17T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567ef"
+  },
+  "propertyId": "PROP025",
+  "propertyName": "Singapore Central Condominium 25",
+  "propertyType": "Landed House",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 4",
+    "address": "4 District 4 Road, Singapore Central"
+  },
+  "price": 2331948,
+  "bedrooms": 1,
+  "bathrooms": 4,
+  "area": 1316,
+  "features": [
+    "Gym",
+    "Smart Home"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-07T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f0"
+  },
+  "propertyId": "PROP026",
+  "propertyName": "Tampines Apartment 26",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Tampines",
+    "district": "District 2",
+    "address": "62 District 2 Road, Tampines"
+  },
+  "price": 2903450,
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "area": 1285,
+  "features": [
+    "Smart Home",
+    "BBQ Pit",
+    "Jacuzzi",
+    "24/7 Concierge"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-23T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f1"
+  },
+  "propertyId": "PROP027",
+  "propertyName": "Punggol Penthouse 27",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Punggol",
+    "district": "District 1",
+    "address": "43 District 1 Road, Punggol"
+  },
+  "price": 1360383,
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "area": 1512,
+  "features": [
+    "Swimming Pool",
+    "24/7 Concierge"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-05T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f2"
+  },
+  "propertyId": "PROP028",
+  "propertyName": "Tampines Condominium 28",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Tampines",
+    "district": "District 4",
+    "address": "7 District 4 Road, Tampines"
+  },
+  "price": 3244709,
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "area": 901,
+  "features": [
+    "Playground",
+    "Security",
+    "Jacuzzi",
+    "Gym"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-29T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f3"
+  },
+  "propertyId": "PROP029",
+  "propertyName": "Singapore Central Landed House 29",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 1",
+    "address": "27 District 1 Road, Singapore Central"
+  },
+  "price": 3390678,
+  "bedrooms": 5,
+  "bathrooms": 1,
+  "area": 646,
+  "features": [
+    "24/7 Concierge",
+    "Rooftop Garden",
+    "Gym"
+  ],
+  "status": "Reserved",
+  "listedDate": {
+    "$date": "2024-09-17T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f4"
+  },
+  "propertyId": "PROP030",
+  "propertyName": "Woodlands Landed House 30",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Woodlands",
+    "district": "District 2",
+    "address": "83 District 2 Road, Woodlands"
+  },
+  "price": 2064766,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "area": 1513,
+  "features": [
+    "Tennis Court",
+    "Security",
+    "Swimming Pool"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-04T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f5"
+  },
+  "propertyId": "PROP031",
+  "propertyName": "Tampines Condominium 31",
+  "propertyType": "Landed House",
+  "location": {
+    "city": "Tampines",
+    "district": "District 2",
+    "address": "26 District 2 Road, Tampines"
+  },
+  "price": 3329091,
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "area": 1587,
+  "features": [
+    "Tennis Court",
+    "Smart Home",
+    "Security",
+    "Swimming Pool"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-29T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f6"
+  },
+  "propertyId": "PROP032",
+  "propertyName": "Singapore Central Condominium 32",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 2",
+    "address": "28 District 2 Road, Singapore Central"
+  },
+  "price": 5264062,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "area": 667,
+  "features": [
+    "Rooftop Garden",
+    "Gym",
+    "Swimming Pool"
+  ],
+  "status": "Reserved",
+  "listedDate": {
+    "$date": "2024-09-21T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f7"
+  },
+  "propertyId": "PROP033",
+  "propertyName": "Jurong Bungalow 33",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Jurong",
+    "district": "District 2",
+    "address": "1 District 2 Road, Jurong"
+  },
+  "price": 534918,
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "area": 713,
+  "features": [
+    "Tennis Court",
+    "BBQ Pit",
+    "Jacuzzi"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-28T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f8"
+  },
+  "propertyId": "PROP034",
+  "propertyName": "Singapore Central Condominium 34",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 5",
+    "address": "61 District 5 Road, Singapore Central"
+  },
+  "price": 1093651,
+  "bedrooms": 1,
+  "bathrooms": 4,
+  "area": 2186,
+  "features": [
+    "Tennis Court"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-22T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567f9"
+  },
+  "propertyId": "PROP035",
+  "propertyName": "Jurong Penthouse 35",
+  "propertyType": "Bungalow",
+  "location": {
+    "city": "Jurong",
+    "district": "District 3",
+    "address": "57 District 3 Road, Jurong"
+  },
+  "price": 3468303,
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "area": 951,
+  "features": [
+    "Gym",
+    "Smart Home",
+    "Playground"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-09-22T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567fa"
+  },
+  "propertyId": "PROP036",
+  "propertyName": "Tampines Apartment 36",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Tampines",
+    "district": "District 4",
+    "address": "45 District 4 Road, Tampines"
+  },
+  "price": 3473237,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "area": 2097,
+  "features": [
+    "Security",
+    "24/7 Concierge",
+    "Jacuzzi",
+    "Swimming Pool"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-21T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567fb"
+  },
+  "propertyId": "PROP037",
+  "propertyName": "Punggol Condominium 37",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Punggol",
+    "district": "District 2",
+    "address": "90 District 2 Road, Punggol"
+  },
+  "price": 3739969,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 1274,
+  "features": [
+    "Playground"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-02-02T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567fc"
+  },
+  "propertyId": "PROP038",
+  "propertyName": "Jurong Penthouse 38",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Jurong",
+    "district": "District 2",
+    "address": "34 District 2 Road, Jurong"
+  },
+  "price": 2233081,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "area": 1822,
+  "features": [
+    "Rooftop Garden",
+    "Gym",
+    "Swimming Pool"
+  ],
+  "status": "Reserved",
+  "listedDate": {
+    "$date": "2024-09-23T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567fd"
+  },
+  "propertyId": "PROP039",
+  "propertyName": "Pasir Ris Bungalow 39",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Pasir Ris",
+    "district": "District 5",
+    "address": "65 District 5 Road, Pasir Ris"
+  },
+  "price": 3060330,
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "area": 1292,
+  "features": [
+    "BBQ Pit",
+    "Smart Home",
+    "Security",
+    "24/7 Concierge",
+    "Rooftop Garden"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-10-29T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567fe"
+  },
+  "propertyId": "PROP040",
+  "propertyName": "Pasir Ris Penthouse 40",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Pasir Ris",
+    "district": "District 2",
+    "address": "74 District 2 Road, Pasir Ris"
+  },
+  "price": 3422527,
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "area": 1185,
+  "features": [
+    "BBQ Pit",
+    "Swimming Pool"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-28T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c56567ff"
+  },
+  "propertyId": "PROP041",
+  "propertyName": "Jurong Condominium 41",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Jurong",
+    "district": "District 3",
+    "address": "48 District 3 Road, Jurong"
+  },
+  "price": 3033366,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "area": 742,
+  "features": [
+    "Smart Home",
+    "Playground",
+    "24/7 Concierge",
+    "Security",
+    "Gym"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-19T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656800"
+  },
+  "propertyId": "PROP042",
+  "propertyName": "Jurong Landed House 42",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Jurong",
+    "district": "District 5",
+    "address": "71 District 5 Road, Jurong"
+  },
+  "price": 2738450,
+  "bedrooms": 2,
+  "bathrooms": 1,
+  "area": 2051,
+  "features": [
+    "Rooftop Garden",
+    "Security",
+    "Smart Home"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-09-24T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656801"
+  },
+  "propertyId": "PROP043",
+  "propertyName": "Woodlands Apartment 43",
+  "propertyType": "Landed House",
+  "location": {
+    "city": "Woodlands",
+    "district": "District 4",
+    "address": "55 District 4 Road, Woodlands"
+  },
+  "price": 2456790,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "area": 650,
+  "features": [
+    "BBQ Pit"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-07T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656802"
+  },
+  "propertyId": "PROP044",
+  "propertyName": "Punggol Apartment 44",
+  "propertyType": "Landed House",
+  "location": {
+    "city": "Punggol",
+    "district": "District 2",
+    "address": "91 District 2 Road, Punggol"
+  },
+  "price": 4624403,
+  "bedrooms": 5,
+  "bathrooms": 3,
+  "area": 2314,
+  "features": [
+    "Playground",
+    "Jacuzzi"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-23T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656803"
+  },
+  "propertyId": "PROP045",
+  "propertyName": "Jurong Landed House 45",
+  "propertyType": "Apartment",
+  "location": {
+    "city": "Jurong",
+    "district": "District 1",
+    "address": "15 District 1 Road, Jurong"
+  },
+  "price": 2063952,
+  "bedrooms": 3,
+  "bathrooms": 1,
+  "area": 1020,
+  "features": [
+    "Playground",
+    "Jacuzzi"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-08T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656804"
+  },
+  "propertyId": "PROP046",
+  "propertyName": "Pasir Ris Penthouse 46",
+  "propertyType": "Condominium",
+  "location": {
+    "city": "Pasir Ris",
+    "district": "District 4",
+    "address": "49 District 4 Road, Pasir Ris"
+  },
+  "price": 3660293,
+  "bedrooms": 1,
+  "bathrooms": 4,
+  "area": 709,
+  "features": [
+    "Tennis Court",
+    "Security",
+    "Smart Home",
+    "24/7 Concierge"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-11-27T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656805"
+  },
+  "propertyId": "PROP047",
+  "propertyName": "Woodlands Apartment 47",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Woodlands",
+    "district": "District 5",
+    "address": "11 District 5 Road, Woodlands"
+  },
+  "price": 2167884,
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "area": 1541,
+  "features": [
+    "Gym"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-09-30T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656806"
+  },
+  "propertyId": "PROP048",
+  "propertyName": "Singapore Central Apartment 48",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Singapore Central",
+    "district": "District 1",
+    "address": "58 District 1 Road, Singapore Central"
+  },
+  "price": 1760878,
+  "bedrooms": 5,
+  "bathrooms": 2,
+  "area": 1344,
+  "features": [
+    "Rooftop Garden",
+    "Smart Home"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2024-12-20T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656807"
+  },
+  "propertyId": "PROP049",
+  "propertyName": "Jurong Penthouse 49",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Jurong",
+    "district": "District 3",
+    "address": "76 District 3 Road, Jurong"
+  },
+  "price": 5091089,
+  "bedrooms": 3,
+  "bathrooms": 4,
+  "area": 975,
+  "features": [
+    "Security",
+    "Jacuzzi",
+    "Smart Home",
+    "Rooftop Garden"
+  ],
+  "status": "Sold",
+  "listedDate": {
+    "$date": "2025-01-09T19:00:29.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67cf36cdeaf466d2c5656808"
+  },
+  "propertyId": "PROP050",
+  "propertyName": "Jurong Condominium 50",
+  "propertyType": "Penthouse",
+  "location": {
+    "city": "Jurong",
+    "district": "District 1",
+    "address": "52 District 1 Road, Jurong"
+  },
+  "price": 1036420,
+  "bedrooms": 4,
+  "bathrooms": 4,
+  "area": 1661,
+  "features": [
+    "Tennis Court",
+    "Security"
+  ],
+  "status": "Available",
+  "listedDate": {
+    "$date": "2024-11-12T19:00:29.062Z"
+  }
+}]

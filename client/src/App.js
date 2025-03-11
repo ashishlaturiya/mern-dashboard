@@ -15,6 +15,7 @@ import FeedbackAnalysisPage from './pages/FeedbackAnalysisPage/FeedbackAnalysisP
 import PropertiesPage from './pages/PropertiesPage/PropertiesPage';
 import SalesPage from './pages/SalesPage/SalesPage';
 import FeedbackPage from './pages/FeedbackPage/FeedbackPage';
+import NaturalLanguageDashboard from './pages/Dashboard/NaturalLanguageDashboard';
 
 // Theme
 import theme from './theme';
@@ -38,6 +39,7 @@ const App = () => {
                 <Route path="/feedback" element={<FeedbackPage />} />
                 <Route path="/properties" element={<PropertiesPage />} />
                 <Route path="/sales" element={<SalesPage />} />
+                <Route path="/dashboard/natural-language" component={NaturalLanguageDashboard} />
               </Routes>
             </Box>
           </Box>

@@ -162,3 +162,13 @@ export const getFeedbackSentiment = async () => {
     throw error;
   }
 };
+
+export const executeNaturalLanguageQuery = async (query) => {
+  try {
+    const response = await api.post('/natural-query', { query });
+    return response.data.data;
+  } catch (error) {
+    console.error('Error executing natural language query:', error);
+    throw error;
+  }
+};

@@ -22,11 +22,11 @@ import {
 } from 'react-icons/fi';
 
 // Components
-// import StatCard from '../../components/charts/s';
 import StatCard from '../../components/charts/StatCard';
 import BarChart from '../../components/charts/BarChart';
 import LineChart from '../../components/charts/LineChart';
 import PieChart from '../../components/charts/PieChart';
+import NaturalLanguageQuery from '../../components/llm/NaturalLanguageQuery';
 
 // API
 import { 
@@ -126,6 +126,8 @@ const Dashboard = () => {
   return (
     <Box>
       <Heading size="lg" mb={6}>Dashboard Overview</Heading>
+
+      <NaturalLanguageQuery />
       
       {/* Summary Stats */}
       <SimpleGrid columns={{ base: 1, md: 2, lg: 4 }} spacing={5} mb={8}>
